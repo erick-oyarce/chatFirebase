@@ -1,0 +1,2 @@
+rootProject.name='chat_firebase'
+include ':app'
